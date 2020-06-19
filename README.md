@@ -1,3 +1,3 @@
 # Get Hex Color
 
-Link: https://akash-salvi.github.io/gethexcolor/
+Link: https://akash-salvi.github.io/changehexcolor/
